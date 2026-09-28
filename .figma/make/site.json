@@ -1,0 +1,11 @@
+{
+  "title": "noli",
+  "description": "An e-commerce platform enabling users to buy and sell intangible products securely, offering a seamless digital marketplace experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
